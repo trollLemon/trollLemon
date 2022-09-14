@@ -6,15 +6,15 @@ Welcome to my github profile.
 The email adress shown on my Github profile is the best way to contact me: *trolllemon@protonmail.com*.
 
 ### Toolbox
--Neovim as my code editor
--Alacritty as my terminal
--Archlinux as my main OS
+- Neovim as my code editor
+- Alacritty as my terminal
+- Archlinux as my main OS
 
 ### Languages
--Rust
--C++
--Java
--JavaScript
+- Rust
+- C++
+- Java
+- JavaScript
 
 ### My Projects
 Here are some projects I have done:
