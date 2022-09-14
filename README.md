@@ -8,7 +8,8 @@ The email address shown on my Github profile is the best way to contact me: *tro
 ### Toolbox
 - Neovim as my code editor
 - Alacritty as my terminal
-- Archlinux as my main OS
+- GNU Debugger as my debugging tool
+
 
 ### Languages
 - Rust
