@@ -1,7 +1,7 @@
 ### Hello
 
 Welcome to my github profile.
-
+---
 ### Contact
 The email adress shown on my Github profile is the best way to contact me: *trolllemon@protonmail.com*.
 
