@@ -3,7 +3,7 @@
 Welcome to my Github profile.
 ---
 ### Contact
-The email address shown on my Github profile is the best way to contact me: *trolllemon@protonmail.com
+The email address shown on my Github profile is the best way to contact me: trolllemon@protonmail.com
 
 
 ### Languages
