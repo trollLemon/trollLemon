@@ -10,6 +10,7 @@ The email address shown on my Github profile is the best way to contact me: trol
 - Rust
 - C++
 - C
+- C#
 - Python
 - Java
 - JavaScript
